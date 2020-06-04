@@ -1,1 +1,1 @@
-# Canadian-Pregnancy-Phyiscal-Activity-Guideline-Twitter-Data-Analysis
+# Canadian-Pregnancy-Physical-Activity-Guideline-Twitter-Data-Analysis
